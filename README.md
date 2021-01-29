@@ -3,7 +3,7 @@
 ## Introduction
 
 This is a small text about the project in the introduction header
-This line is an example for a rebasing case
+This line is an example for a rebasing case, then more changes for a feature branch
 
 ## Purpose
 
