@@ -12,6 +12,7 @@ The purpose of this project is to make the world a bit better.
 ## Deployment
 
 To deploy this project we have to really get our hands dirty, but we can do it
+Emergency fix
 
 ## How to contribute
 
