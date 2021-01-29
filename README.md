@@ -20,4 +20,4 @@ Always use new branches when editing a feature
 
 ### Copyright
 
-2021 Josy
+2021 Josy Inc.
